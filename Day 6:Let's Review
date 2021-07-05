@@ -1,0 +1,31 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    int t;
+    cin>>t;
+    
+    while(t)
+    {
+       string st;
+       cin>>st;
+        for(int j=0;j<st.length();j++)
+             if(j%2==0)
+                cout<<st[j];
+       
+        cout<< " "; 
+        
+        for(int j=0;j<st.length();j++)
+            if(j%2!=0)
+                cout<<st[j];
+
+        cout<<endl;
+        t--;
+    } 
+    return 0;
+}

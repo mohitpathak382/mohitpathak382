@@ -3,10 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpathak382&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpathak382" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mpathak382" target="blank"><img src="https://img.shields.io/twitter/follow/mpathak382?logo=twitter&style=for-the-badge" alt="mpathak382" /></a> </p>
-
-- 🔭 I’m currently working on **100DaysOfCode By CodeIn**
-
+<p align="left"> <a href="https://twitter.com/mpathak382" target="blank"><img src="https://img.shields.io/twitter/follow/mpathak382?logo=twitter&style=for-the-badge" alt="mpathak382" /></a> </
+  
 - 🌱 I’m currently learning **Dynamic Programming**
 
 - 💬 Ask me about **Data Structure And algorithm, Unix,MySQL**
